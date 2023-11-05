@@ -1,0 +1,35 @@
+{
+	"org": {
+		"user": "digitalandyeu",
+		"title": "DigitalAndy.eu - Web Development, Design & Marketing",
+		"description": "We are independent digital artists collaboration, united by freaky love for web, technologies, design, and marketing.",
+		"maintainedSinceYear": "2019",
+		"list": {
+			"title": "We do",
+			"items": [
+				"Websites",
+				"Brands",
+				"Advertisements",
+				"IT support for Online Sales",
+				"Other small digital solutions for modern business needs"
+			]
+		},
+		"links": {
+			"title": false,
+			"items": [
+				{
+					"title": "Figma starter",
+					"href": "https://www.figma.com/file/0AdHJVIm34eSJ0eRissQfe/Starter-%3A-Web?node-id=1%3A12&t=2H9vpif7XKQGlwfp-1"
+				},
+				{
+					"title": "Public data",
+					"href": "./public/data/"
+				}
+			]
+		}
+	},
+	"labels": {
+		"support_ua": true,
+		"gitpod": true
+	}
+}
