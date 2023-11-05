@@ -1,0 +1,14 @@
+/* TEAM */
+Fullstack lead developer: Andrii Ivashchuk
+Github: https://github.com/andriilive
+Location: Prague, Czech Republic
+
+UX/UI Designer: Filipp Egorov
+Behance: https://www.behance.net/philavr
+Location: Prague, Czech Republic
+
+/* THANKS */
+Content & Localisation: Nina Pirkl (@NinaPirkl)
+Dev Supp: Hlib Zinchenko
+Online Marketing: Igor Tristan
+Partners: Edgar Viter (@simetrio.agency)
