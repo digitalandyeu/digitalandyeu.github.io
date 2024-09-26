@@ -1,0 +1,22 @@
+[
+	{
+		"title": "Simetrio Agency (Prague)",
+		"logo": "https://pbs.twimg.com/profile_images/1410416349831172102/0B9pzRhv_400x400.jpg",
+		"desc": "Digital Consulting. Art and technology enthusiast.",
+		"link": {
+			"text": "Visit web",
+			"href": "https://simetrio.agency",
+			"title": "Visit web"
+		}
+	},
+	{
+		"title": "Media Unit (Prague)",
+		"logo": "https://pbs.twimg.com/profile_images/1410416349831172102/0B9pzRhv_400x400.jpg",
+		"desc": "Internet agency with which you achieve success in the online world",
+		"link": {
+			"text": "Visit web",
+			"href": "https://www.mediaunit.cz",
+			"title": "Visit web"
+		}
+	}
+]

@@ -1,0 +1,22 @@
+[
+	{
+		"fullName": "Andrii Ivashchuk",
+		"slug": "andrii-iv",
+		"desc": "Fullstack developer",
+		"tags": ["dev"],
+		"actions": {
+			"github": "https://github.com/andriilive",
+			"whatsapp": false
+		}
+	},
+	{
+		"fullName": "Filipp Egorov",
+		"slug": "filipp-eg",
+		"desc": "UX Designer",
+		"tags": ["design"],
+		"actions": {
+			"linkedin": "https://www.linkedin.com/in/philavr",
+			"telegram": "https://t.me/philavr"
+		}
+	}
+]
